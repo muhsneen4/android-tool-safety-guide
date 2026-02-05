@@ -1,3 +1,9 @@
+![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Security Research](https://img.shields.io/badge/Research-Security-orange)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
+
+[![APKLike Research](https://img.shields.io/badge/Research-APKLike.net-ff69b4)](https://apklike.net)
 # android-tool-safety-guide
 Comprehensive security guidelines for Android modification tools. Part of APKLike.net's security research initiative.
 # Android Tool Safety Guidelines
